@@ -1,0 +1,48 @@
+.First_Page{
+    color:white;
+    background: black;
+    padding: 80px  ;
+}
+
+.avathar_logo{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding:70px  40px;
+    flex-wrap: wrap;
+
+}
+.img_2{
+    width: 200;
+    height: 150px;
+}
+figcaption{
+    text-align: center;
+    text-decoration: none;
+}
+
+.Title_first_page h2{
+    text-align: center;
+    font-size: 3rem;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+.button_1{
+    display: flex;
+    justify-content: center;
+    cursor: pointer;
+    color: #000000;
+    outline: none;
+    border: none;
+    border-radius: 0.2vw;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    padding-top: 0.5rem;
+    /* background-color: rgba(51,51,51,0.5); */
+    padding-bottom: 0.5rem;
+    
+}
